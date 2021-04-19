@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsterfinder/static/css/main.81cdc020.chunk.css",
+    "main.js": "/monsterfinder/static/js/main.d2ca4b1c.chunk.js",
+    "main.js.map": "/monsterfinder/static/js/main.d2ca4b1c.chunk.js.map",
+    "runtime-main.js": "/monsterfinder/static/js/runtime-main.64dd5ed7.js",
+    "runtime-main.js.map": "/monsterfinder/static/js/runtime-main.64dd5ed7.js.map",
+    "static/js/2.1dc91619.chunk.js": "/monsterfinder/static/js/2.1dc91619.chunk.js",
+    "static/js/2.1dc91619.chunk.js.map": "/monsterfinder/static/js/2.1dc91619.chunk.js.map",
+    "static/js/3.225acb6f.chunk.js": "/monsterfinder/static/js/3.225acb6f.chunk.js",
+    "static/js/3.225acb6f.chunk.js.map": "/monsterfinder/static/js/3.225acb6f.chunk.js.map",
+    "index.html": "/monsterfinder/index.html",
+    "static/css/main.81cdc020.chunk.css.map": "/monsterfinder/static/css/main.81cdc020.chunk.css.map",
+    "static/js/2.1dc91619.chunk.js.LICENSE.txt": "/monsterfinder/static/js/2.1dc91619.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64dd5ed7.js",
+    "static/js/2.1dc91619.chunk.js",
+    "static/css/main.81cdc020.chunk.css",
+    "static/js/main.d2ca4b1c.chunk.js"
+  ]
+}
